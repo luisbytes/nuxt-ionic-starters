@@ -1,4 +1,4 @@
-# Nuxt 3 Ionic Blank Starter
+# Nuxt 3 Ionic Tabs Starter
 
 This template uses the [Nuxt/Ionic](https://ionic.nuxtjs.org/) module
 
