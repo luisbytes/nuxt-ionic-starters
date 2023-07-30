@@ -1,4 +1,5 @@
 {
+  "name": "nuxt-ionic-blank",
   "private": true,
   "scripts": {
     "build": "nuxt build",
