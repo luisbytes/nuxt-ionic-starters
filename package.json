@@ -1,4 +1,5 @@
 {
+  "name": "nuxt-ionic-tabs",
   "private": true,
   "scripts": {
     "build": "nuxt build",
